@@ -30,17 +30,19 @@
 		<part name="5" crc="115bcb1e"/>
 		<part name="6" crc="434caa17"/>
 		<part name="7" crc="67c68b82"/>
-		<part name=8" crc="f5b63006"/>
+		<part name="8" crc="f5b63006"/>
 		<!-- audio cpu -->
 		<part name="9" crc="67cf8aec"/>
 		<part repeat="4096">00</part>
 		<!-- gfx -->
 		<part name="11" crc="f92c4c5b"/>
 		<part repeat="4096">00</part>
-		<part name=10" crc="3b0783ce"/>
+		<part name="10" crc="3b0783ce"/>
 		<part repeat="4096">00</part>
 	</rom>
-	<rom index="1"><part>3</part></rom>
+	<rom index="1">
+		<part>3</part>
+	</rom>
 	<rom index="2"></rom>
 	<rom_3></rom_3>
 	<rom_4></rom_4>
