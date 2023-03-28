@@ -1,5 +1,6 @@
 <misterromdescription>
 	<name>Super Casino</name>
+	<setname>sucasino</setname>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<series></series>
@@ -9,7 +10,7 @@
 	<rbf>freeze</rbf>
 	<about></about>
 	<resolution>15kHz</resolution>
-	<rotation>vertical</rotation>
+	<rotation>vertical(cw)</rotation>
 	<flip></flip>
 	<players>2</players>
 	<joystick>2-way</joystick>
